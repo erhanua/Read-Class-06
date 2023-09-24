@@ -1,6 +1,6 @@
 # Read-Class-06
 
->JavaScript Object Basics
+> JavaScript Object Basics
  
 
 ### 1-How would you describe an object to a non-technical friend you grew up with?
