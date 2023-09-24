@@ -1,6 +1,7 @@
 # Read-Class-06
-# <span style="background-color: yellow">JavaScript Object Basics</span>
- <span style="color: red">kırmızı</span>
+
+>JavaScript Object Basics
+ 
 
 ### 1-How would you describe an object to a non-technical friend you grew up with?
 Think of an ID card. On this card, you have your name, surname, date of birth, and a photo. The ID card brings together information that identifies you.
